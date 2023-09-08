@@ -14,7 +14,7 @@
 
             if (a == 17 && b == 4)
 
-                Console.WriteLine($"17/4 is 4 remainder 1");
+                Console.WriteLine($"{quotient} with {remainder}");
 
             double AreaOfCircle(double r)
             {
